@@ -4,7 +4,7 @@
 
 - 扫码查看
 	
-	<img alt="logo" src="https://github.com/gudanya123/jd-h5/blob/master/example.png" width="100" max-width="100%">
+	<img alt="logo" src="https://github.com/gudanya123/love/blob/master/myLove.png" width="100" max-width="100%">
 	
 	
 - 使用js插件实现动画效果
